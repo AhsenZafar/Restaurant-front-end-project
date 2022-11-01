@@ -1,0 +1,25 @@
+{
+  "name": "restaurant-front-end-project",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A sample ordering app to practice my js css and html skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhsenZafar/Restaurant-front-end-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhsenZafar/Restaurant-front-end-project/issues"
+  },
+  "homepage": "https://github.com/AhsenZafar/Restaurant-front-end-project#readme",
+  "dependencies": {
+    "webpack": "^5.74.0"
+  }
+  
+}
