@@ -3,4 +3,31 @@ body {
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.125rem;
     font-weight: 300;
+    border: 1px solid red;
+    text-align:center;
+}
+
+#header{
+    background-image: url("./images.jpeg");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.container{
+    width: 50%;
+    border: 2px solid blue
+}
+.item{
+    display:flex;
+    justify-content: space-between;
+}
+.left-container{
+    display:flex;
+}
+h3{
+    margin:0;
+    size:0.8rem;
+    
+}
+p{
+    margin:0
 }
